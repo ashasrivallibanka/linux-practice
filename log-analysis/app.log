@@ -1,0 +1,7 @@
+INFO: Application Started
+INFO: Database Connected
+WARNING: High Memory Usage
+ERROR: Database Connection Failed
+INFO: User Login Successful
+ERROR: API Timeout
+INFO: Application Stopped
